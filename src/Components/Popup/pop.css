@@ -1,0 +1,21 @@
+button {
+    background-color: crimson;
+    width: 120px;
+    height: 35px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.poup {
+    margin-bottom: 2rem;
+}
